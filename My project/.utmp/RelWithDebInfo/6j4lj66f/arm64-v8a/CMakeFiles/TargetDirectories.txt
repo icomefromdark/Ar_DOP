@@ -1,5 +1,0 @@
-C:/Users/bonun/Desktop/work/Github/Ar_DOP/My project/.utmp/RelWithDebInfo/6j4lj66f/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/bonun/Desktop/work/Github/Ar_DOP/My project/.utmp/RelWithDebInfo/6j4lj66f/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/bonun/Desktop/work/Github/Ar_DOP/My project/.utmp/RelWithDebInfo/6j4lj66f/arm64-v8a/GameActivity/CMakeFiles/game.dir
-C:/Users/bonun/Desktop/work/Github/Ar_DOP/My project/.utmp/RelWithDebInfo/6j4lj66f/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-C:/Users/bonun/Desktop/work/Github/Ar_DOP/My project/.utmp/RelWithDebInfo/6j4lj66f/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
