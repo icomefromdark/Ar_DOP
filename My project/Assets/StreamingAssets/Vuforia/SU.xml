@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker-su" size="100.000000 59.583332" />
+  </Tracking>
+</QCARConfig>
