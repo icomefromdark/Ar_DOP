@@ -1,0 +1,21 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+.vscode/
+.vs/
+
+# OS and editor
+.DS_Store
+Thumbs.db
